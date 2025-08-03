@@ -1,5 +1,3 @@
-//Day -1
-
 /*const cowsay = require("cowsay");
 console.log(cowsay.say({
     text: "I'm a moodule",
@@ -105,4 +103,5 @@ console.log(i);*/
 //     Fnum = Fnum/a;
 // }
 // console.log(Number(sum));
+
 
